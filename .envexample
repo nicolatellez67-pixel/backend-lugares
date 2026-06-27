@@ -1,0 +1,2 @@
+PORT[aqui agregar el puerto]
+MONGO_URI=mongodb+srv://[agregar usuario]:[contraseña]345@cluster0.04up5gu.mongodb.net/[aregar nombre de la db]?appName=Cluster0
